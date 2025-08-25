@@ -1,0 +1,5 @@
+BACKUP MANIFEST - Mon Aug 25 11:22:13 AM UTC 2025
+================================
+Backup File: workspace_backup_20250825_112150.tar.gz
+Backup Size: 776K
+Backup Date: Mon Aug 25 11:22:13 AM UTC 2025
