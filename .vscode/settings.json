@@ -1,3 +1,4 @@
 {
-    "editor.experimental.treeSitterTelemetry": true
+    "editor.experimental.treeSitterTelemetry": true,
+    "IDX.agenticWorkspace": true
 }
